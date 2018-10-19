@@ -6,5 +6,7 @@ package com.baizhi.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("+++++++++++");
+        System.out.println("you are nice in the today");
+        System.out.println("baby,you are my darling");
     }
 }
